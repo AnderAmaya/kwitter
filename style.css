@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+.header{
+    color: #006494;
+}
+.header img{
+    width: 88px; margin-left: -15px;
+}
+.login_div{
+    background-color: aliceblue; float: none; border-radius: 15px;
+}
+.logo{
+    width: 88px; margin-top: 30px; border-radius: 40px;
+}
+#login_button{
+    width: 80%; border-radius: 15px;
+}
+.room_name{
+    cursor: pointer;
+    font-size: 20px;
+}
+#logout{
+    font-size: 20px;
+}
+.input_div_room_page{
+    width: 88%;
+}
+.user_tick{
+    width: 20px;
+    height: 20px;
+}
